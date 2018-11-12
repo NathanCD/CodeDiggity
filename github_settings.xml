@@ -1,0 +1,10 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="d49a7d83-eb46-42d1-9bc2-43d919f7f91c" name="nathan.kinney@codediggity.com">
+      <server host="github.com" />
+    </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="PRIVATE_GIST" value="false" />
+  </component>
+</application>
